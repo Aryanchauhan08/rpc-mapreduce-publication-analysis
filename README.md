@@ -102,9 +102,8 @@ Top 10 words: ['Advanced', 'Analytical', 'Comprehensive', ...]
 
 The execution proof is included as:
 
-```
+
 Output .png
-```
 
 This screenshot shows:
 
