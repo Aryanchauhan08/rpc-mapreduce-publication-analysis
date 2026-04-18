@@ -100,16 +100,14 @@ Top 10 words: ['Advanced', 'Analytical', 'Comprehensive', ...]
 
 ## 📸 Codespaces Output Screenshot
 
-The execution proof is included as:
+The execution proof is shown below:
 
-
-Output .png
+![Codespaces Output](screenshot.png)
 
 This screenshot shows:
-
-* Codespaces environment
-* Terminal execution
-* Final output with **score = 10/10**
+- Codespaces environment  
+- Terminal execution  
+- Final output with **score = 10/10**
 
 ---
 
